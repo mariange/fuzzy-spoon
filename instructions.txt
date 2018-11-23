@@ -7,3 +7,5 @@ Those of us who work remotely are thankful for the robot surrogates that stand i
 Those of us who work as developers are thankful for the masseuse the buyers hired for in the office. And those of us who work as buyers are thankful for the masseuse the devs have hired for in the office. And the masseuse is thankful that nobody has asked him for his massage therapy license, because as long as they don’t, he can lay low and this whole misunderstanding with the authorities blow over.
 
 Please refer to the website for more instructions. 
+
+Change made in sample-branch
